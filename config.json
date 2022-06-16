@@ -1,0 +1,15 @@
+{
+	"token": "",
+	"prefix": ">",
+
+	"channel-names": [""], 
+	"server-names": [""],
+	"role-names": [""],
+	"reason": [""],
+
+	"Spam": true,
+
+	"webhook-names": [""],
+	"wpam-messages": [""],
+	"wpam-amount": 1000
+}
